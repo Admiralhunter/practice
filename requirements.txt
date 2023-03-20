@@ -1,0 +1,32 @@
+# Data Science and Data Engineering Packages
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+xgboost
+lightgbm
+catboost
+
+# AWS Services Packages
+boto3
+botocore
+s3transfer
+awscli
+
+# Datetime Operations Packages
+arrow
+dateparser
+python-dateutil
+pendulum
+pytz
+
+# Additional packages for data processing and analysis
+dask
+distributed
+
+
+# Formatting
+ruff
